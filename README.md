@@ -11,4 +11,4 @@ https://learn.microsoft.com/en-us/office/vba/api/excel.calculatedfields
 https://excelchamps.com/vba/
 Additionally, I reviewed this assignment with a professional mentor I have from my previous employer.
 
-Please find the attached Macro enable excel file, as well as screenshots of each worksheet in the workbook showing the VBA script having been run.
+Please find the attached Macro enable excel file, seperate VBA File, as well as the requested screenshots of each worksheet in the workbook showing the VBA script having been run.
