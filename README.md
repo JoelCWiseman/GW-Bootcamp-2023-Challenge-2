@@ -1,7 +1,7 @@
 # GW-Bootcamp-2023-Challenge-2
 VBA Scripting to analyze generated stock market data
 
-****I have revisited the challenge, reviewed the course material as well as the outside sources listed below and uploaded the corrected VBA file and Screenshots of the correct scrpt having run in excel with the numbers now correctly calculating.  I have also updated the link excel in Google Drive below.****
+****I have revisited the challenge, reviewed the course material as well as the outside sources listed below and uploaded the corrected VBA file and Screenshots of the correct scrpt having run in excel with the numbers now correctly calculating.  I have added the word "Corrected" to the title of the updated files.  I have also updated the link excel in Google Drive below.****
 
 A note about this assignment. The curricurlium has not been updated to be helpful when attempting to complete this assignment. The in class course does not cover all the code needed for this assignment, and that needs to be addressed. I know that the instructor and the CSM have collected this feedback and should be submitting, but I also wanted to mention it here.
 
